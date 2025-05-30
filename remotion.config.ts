@@ -1,4 +1,4 @@
-import {Config} from '@remotion/cli/config';
+import {Config} from 'Carl Films
 
 Config.setVideoImageFormat('png');
 Config.setCodec('prores');
